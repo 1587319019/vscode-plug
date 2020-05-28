@@ -24,7 +24,7 @@ MIT.
 
 ## Resource code
 
-https://github.com/gitshan/vscode-extension-comment-aligner.
+https://github.com/1587319019/vscode-plug.git.
 
 ## Release Notes
 
